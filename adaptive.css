@@ -194,6 +194,9 @@ center img
   .z4 img{
     width: 77px;
   }
+  #im{
+     margin-bottom : -5px;
+  }
 }
 
 /* xs */
