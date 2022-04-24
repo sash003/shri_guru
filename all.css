@@ -1,0 +1,618 @@
+
+
+.orange
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 100%;
+	padding-left: 20px;
+	text-align: left;
+	vertical-align: top;
+	padding-right: 7%;
+	/*text-shadow: white -1px 1px 0px; /* Ϡ�ଥ��� �孨 */
+	font-weight: bold;
+	font-variant: small-caps;
+	color: #000000;
+	background: url('img/fon5.jpg');
+	background-size: 100% 100%;
+}
+
+.four
+{
+	width: 4%;
+}
+.fourtyfour
+{
+	width: 21%;
+	vertical-align: top;
+	line-height: 150%;
+	list-style-position: outside;
+	list-style-type: square;
+	background-color: #000000;
+	border-left-width: 10px;
+	border-left-style: dashed;
+	border-left-color: #ffffff;
+	font-size: 100%;
+}
+
+.fourtyfourjjj
+{
+	width: 21%;
+	vertical-align: top;
+	line-height: 150%;
+	list-style-position: outside;
+	list-style-type: square;
+	background-color: #000000;
+	font-size: 100%;
+	border-right-width: 10px;
+	border-right-style: dashed;
+	border-right-color: #F4BB00;
+}
+
+.fifty
+{
+	width: 40%;
+	background-color: #000000;
+}
+.ninetytwo
+{
+	width: 92%;
+}
+
+
+.logoone
+{
+	background-color: #000000;
+	height: 45px;
+	width: 287px;
+	vertical-align: bottom;
+}
+.whitebord
+{
+	border-right-width: 2px;
+	border-right-style: solid;
+	border-right-color: #FFFFFF;
+	background-color: #000000;
+}
+
+.whitebordiii
+{
+	border-left-width: 2px;
+	border-left-style: solid;
+	border-left-color: #FFFFFF;
+	background-color: #000000;
+}
+
+.yellowzag
+{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 110%;
+	color: #000000;
+	text-decoration: underline;
+	width: 48%;
+	background-color: #ffffff;
+	text-align: left;
+	padding-left: 20px;
+	background: url('img/fon4.jpg');
+	background-size: 100% 100%;
+}
+
+.yellowzagiii
+{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 110%;
+	color: #000000;
+	text-decoration: underline;
+	width: 48%;
+	background-color: #F4BB00;
+	text-align: right;
+	padding-right: 20px;
+	background: url('img/fon.jpg');
+	background-size: 100% 100%;
+}
+.whitezag
+{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 100%;
+	font-style: normal;
+	color: #FFFFFF;
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+	vertical-align: top;
+	width: 48%;
+}
+
+
+.logoonelll
+{
+	background-color: #000000;
+	height: 54px;
+	width: 287px;
+	vertical-align: top;
+}
+
+.ttt
+{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 100%;
+	font-style: normal;
+	color: #000000;
+	text-align: left;
+	padding: 20px;
+	background-color: #ffffff;
+	width: 44%;
+	vertical-align: top;
+	background: url('img/fon3.jpg');
+	background-size: 100% 100%;
+}
+
+.ttt p, .tttiii p
+{
+	font-size: 1.4em;
+}
+
+.tttiii
+{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 100%;
+	font-style: normal;
+	color: #000000;
+	text-align: left;
+	padding: 20px;
+	background-color: #F4BB00;
+	width: 44%;
+	vertical-align: top;
+	background: url('img/fon2.jpg');
+	background-size: 100% 100%;
+}
+
+.zagmain
+{
+	font-family: "palatino Linotype";
+	font-size: 140%;
+	font-style: italic;
+	color: #FFFFFF;
+	text-align: left;
+	padding-left: 20px;
+}
+
+.percent
+{
+	width: 50%;
+}
+
+
+.lightorange
+{
+	background-color: #ffffff;
+}
+
+
+
+.yellowline
+{
+	border-bottom-width: 1px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: solid;
+	border-left-style: none;
+	border-bottom-color: #ECEBE9;
+}
+
+
+.yellowback
+{
+	background-color: #F4BB00;
+}
+
+
+.plaintext
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 100%;
+	line-height: 130%;
+	color: #FFFFFF;
+	padding: 10px;
+	padding-left: 5px;
+}
+
+.cent
+{
+	background-color: #000000;
+	width: 756px;
+}
+
+
+.zag1
+{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 200%;
+	font-style: normal;
+	font-weight: normal;
+	background-color: #000000;
+	text-align: center;
+	color: #FFFFFF;
+}
+.zag2
+{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 550%;
+	font-style: normal;
+	font-weight: normal;
+	text-transform: capitalize;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: #000000;
+	text-align: center;
+}
+
+.zag3
+{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 200%;
+	font-style: italic;
+	font-weight: normal;
+	text-transform: capitalize;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: #000000;
+	text-align: center;
+	line-height: 50%;
+}
+.photoblock
+{
+	background-color: #000000;
+	padding-top: 30px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+}
+.decorside
+{
+	background-color: #000000;
+	background-image: url(img/flower17.png);
+	background-repeat: repeat-y;
+	width: 25px;
+	background-position: right;
+}
+
+.decorside2
+{
+	background-color: #000000;
+	background-image: url(img/flower17.png);
+	background-repeat: repeat-y;
+	width: 25px;
+	background-position: right;
+
+}
+
+.decorside3
+{
+	background-color: #000000;
+	background-image: url(img/flower17.png);
+	background-repeat: repeat-y;
+	width: 25px;
+	background-position: left;
+}
+
+.decorside4
+{
+	background-color: #000000;
+	background-image: url(img/flower17_2.png);
+	background-repeat: repeat-x;
+	width: 25px;
+	background-position: top;
+}
+
+
+#menuniz a:hover
+{
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	text-decoration: underline;
+}
+
+#menuniz a:link
+{
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: small;
+	text-decoration: none;
+}
+
+
+.menuniz
+{
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	text-decoration: none;
+	text-align: center;
+	background-color: #000000;
+}
+.menuniz1
+{
+	color: #FFFFFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: small;
+	text-decoration: none;
+	text-align: center;
+	background-color: #000000;
+}
+
+#menuniz1 a:hover
+{
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+}
+
+#menuniz1 a:link
+{
+	color: inherit;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: small;
+	text-decoration: none;
+}
+
+
+
+#plashka a:hover
+{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 110%;
+	color: #000000;
+}
+
+#plashka a:link
+{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 110%;
+	color: #000000;
+}
+
+
+
+#listik a:hover
+{
+	color: #f7d40e !important;
+}
+
+#listik a:link
+{
+	color: #FFFFFF;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 100%;
+	text-decoration: none;
+}
+
+
+
+
+
+.fotocent
+{
+	background-color: #EEDDB7;
+	width: 50%;
+}
+
+.zag1iii
+{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 200%;
+	font-style: normal;
+	font-weight: normal;
+	background-color: #EEDDB7;
+	text-align: center;
+	color: #000000;
+	padding-bottom: -10px;
+}
+.zag2iii
+{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 550%;
+	font-style: normal;
+	font-weight: normal;
+	text-transform: capitalize;
+	color: #000000;
+	text-decoration: none;
+	background-color: #EEDDB7;
+	text-align: center;
+	line-height: 90%;
+	padding-top: -10px;
+	margin-top: -10px;
+}
+
+.zag3iii
+{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 200%;
+	font-style: italic;
+	font-weight: normal;
+	text-transform: capitalize;
+	color: #000000;
+	text-decoration: none;
+	background-color: #EEDDB7;
+	text-align: center;
+	line-height: 50%;
+	margin-top: -10px;
+	padding-top: -10px;
+}
+.papaerbordleft
+{
+	background-color: #EEDDB7;
+	background-image: url(img/paperleft.jpg);
+	background-repeat: repeat-y;
+	background-position: left;
+}
+.papaerbordright
+{
+	background-color: #EEDDB7;
+	background-image: url(img/paperright.jpg);
+	background-repeat: repeat-y;
+	background-position: right;
+}
+.papaercorner
+{
+	background-color: #EEDDB7;
+	background-image: url(img/papercorner.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+	height: 168px;
+	width: 168px;
+}
+
+.papaercorneriii
+{
+	background-color: #EEDDB7;
+	background-image: url(img/papercorner111.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	height: 168px;
+	width: 168px;
+}
+
+.paperbottom
+{
+	background-color: #EEDDB7;
+	background-image: url(img/paperbottom.jpg);
+	background-repeat: repeat-x;
+	background-position: left top;
+	height: 168px;
+}
+
+.plaintextiii
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 100%;
+	line-height: 130%;
+	color: #000000;
+	padding-top: 10px;
+	padding-right: 5px;
+	padding-left: 20px;
+	background-color: #EEDDB7;
+	background-position: right;
+}
+.dside
+{
+	background-color: #EEDDB7;
+	background-image: url(img/paperleft.jpg);
+	background-repeat: repeat-y;
+	background-position: left top;
+	width: 90px;
+}
+.fffot
+{
+	background-color: #EEDDB7;
+	padding-right: 18px;
+	padding-left: 18px;
+}
+
+.menuniz1111
+{
+	color: #FFFFFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: small;
+	text-decoration: none;
+	text-align: center;
+	background-color: #EEDDB7;
+}
+
+.menuniznew
+{
+	color: #FFFFFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: small;
+	text-decoration: none;
+	text-align: center;
+}
+
+.big_table
+{
+}
+.bigpict
+{
+	width: 100%;
+	background-image: url(img/drops.jpg);
+	height: 766px;
+	background-repeat: no-repeat;
+	background-position: left top;
+	background-size: 100%;
+	padding-bottom: 17px;
+}
+.sidebbar
+{
+	background-image: url(img/drops.png);
+	background-repeat: repeat-y;
+	background-position: right top;
+}
+.z1
+{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 800%;
+	font-style: normal;
+	font-weight: normal;
+	letter-spacing: 19px;
+	color: #FFFFFF;
+	line-height: 70%;
+	padding-top: 5%;
+	padding-left: 5%;
+}
+
+.z2
+{
+	letter-spacing: 25px;
+}
+
+.z3
+{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 240%;
+	font-style: normal;
+	font-weight: normal;
+	/*letter-spacing: 19px;*/
+	color: #FFFFFF;
+	padding-top: 3%;
+	padding-left: 5%;	/*line-height: 70%;*/
+	/*position: absolute;
+	left: 153px;
+	top: 110px;*/
+}
+
+.z4
+{
+	position: absolute;
+	left: 9%;
+	top: 5%;
+}
+
+.pphoto
+{
+	padding-top: 50px;
+	padding-bottom: 20px;
+	padding-left: 0;
+}
+
+.plaintext1
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 100%;
+	line-height: 130%;
+	color: #FFFFFF;
+	padding-top: 50px;
+	padding-right: 5px;
+	padding-left: 20px;
+	text-align: left;
+}
+#listik a:visited
+{
+	color: #ffffff;
+}
+#plashka a
+{
+	color: #2b0000;
+	text-decoration: none;
+}
+.tttiii a
+{
+	color: #6c0000;
+}
