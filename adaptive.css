@@ -1,0 +1,226 @@
+
+
+
+/*
+#49736f зелёный
+#6f3700 красный
+#3f3f3f тёмный
+#f7d40e ye
+*/
+
+@font-face
+{
+	font-family: 'ParsekC';
+	src: url'/fonts/m_Bolid.ttf');
+}
+.plaintext1{
+  color: black;
+}
+.math
+{
+  letter-spacing: -2px;
+  font-family: 'ParsekC';
+  color: #299728 !important;
+}
+
+.whitezag
+{
+	padding: 22px;
+}
+.fourtyfour, .fourtyfourjjj
+{
+	width: 25%;
+}
+.fifty img
+{
+	width: 100%;
+}
+.photo .photoblock
+{
+	width: 40%;
+}
+.photo tr td img
+{
+	width: 100%;
+}
+#im img
+{
+	width: 100%;
+}
+
+center img
+{
+	width: 77%;
+}
+.fotocent
+{
+	text-align: center;
+}
+.fotocent img
+{
+	width: 77%;
+}
+.fffot
+{
+	width: 40%;
+}
+.fffot img
+{
+	width: 100%;
+}
+.pphoto
+{
+	padding-top: 17px;
+	width: 30%;
+}
+.pphoto img
+{
+	width: 100%;
+}
+.plaintext1
+{
+	padding: 0 11px 0 11px;
+	font-size: 1.4em;
+}
+.z1, .z1 span{
+  letter-spacing: 5px !important;
+}
+
+
+@media (min-width: 1400px)
+{
+	.bigpict
+	{
+		height: 1000px;
+	}
+}
+
+
+.sidebbar{
+  display: none !important;
+}
+
+/* lg */
+@media (max-width: 1200px)
+{
+	.fourtyfour, .fourtyfourjjj
+	{
+		width: 30%;
+	}
+	.fifty
+	{
+		width: 40%;
+	}
+	.fourtyfourjjj
+	{
+	}
+	.photo .photoblock
+	{
+		width: 40%;
+	}
+}
+#im
+{
+	display: none;
+	text-align: center;
+}
+
+/* md */
+@media (max-width: 1199px)
+{
+	.photo .photoblock
+	{
+	}
+	.photo tr td img
+	{
+		width: 100%;
+	}
+	.dside
+	{
+		background-image: url(img/paperleft2.jpg);
+		width: 50px;
+	}
+	.plaintextiii
+	{
+		padding-left: 0;
+	}
+	.z1
+	{
+		font-size: 600%;
+	}
+}
+@media (max-width: 1000px){
+  .z1{
+    font-size: 500%;
+  }
+}
+/* sm */
+@media(max-width: 991px)
+{
+  .logoonelll, .logoone{
+    width: 25%;
+  }
+  .logoonelll img, .logoone img{
+    width: 100% !important;
+  }
+	.fourtyfour, .fourtyfourjjj
+	{
+		width: 50%;
+	}
+	.fifty
+	{
+		width: 0%;
+	}
+	#im
+	{
+		display: block;
+	}
+	.photo .photoblock
+	{
+		width: 30%;
+	}
+	.fffot
+	{
+		width: 30%;
+	}
+	.z3
+	{
+		font-size: 170%;
+	}
+	.bigpict
+	{
+		height: 500px;
+	}
+  .z4 img{
+    width: 77px;
+  }
+}
+
+/* xs */
+@media (max-width: 767px)
+{
+	.bigpict
+	{
+		height: 400px;
+	}
+  .z3
+	{
+		font-size: 150%;
+	}
+  .z1
+	{
+		font-size: 333%;
+	}
+}
+
+/* XS Portrait */
+@media (max-width: 700px)
+{
+  .z3
+	{
+		font-size: 111%;
+	}
+  .z1{
+    font-size: 250%;
+  }
+}

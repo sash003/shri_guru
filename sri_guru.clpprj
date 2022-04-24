@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\OSPanel\domains\sri-guru\sri_guru.clpprj">
+	<settings><PM_URL><![CDATA[C:/OSPanel/domains/MVC/]]></PM_URL><PM_HOME_URL><![CDATA[C:/OSPanel/domains/MVC/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="C:\OSPanel\domains\sri-guru\index.html"/>
+		<file name="C:\OSPanel\domains\sri-guru\all.css"/>
+		<file name="C:\OSPanel\domains\sri-guru\adaptive.css"/>
+		<file name="C:\OSPanel\domains\sri-guru\shiksha.html"/>
+		<file name="C:\OSPanel\domains\sri-guru\style.css"/>
+		<file name="C:\OSPanel\domains\sri-guru\vany.html"/>
+		<file name="C:\OSPanel\domains\sri-guru\nektar.html"/>
+	</lastopfiles>
+	<errors version="5.11">
+		<errfile name="C:\OSPanel\domains\sri-guru\shiksha.html">
+			<error val="64;46;86;46;2002;1;"/>
+			<error val="64;71;86;71;2002;1;"/>
+		</errfile>
+		<errfile name="C:\OSPanel\domains\sri-guru\index.html">
+			<error val="2;17;5;18;2501;1;"/>
+			<error val="0;31;2;32;2501;1;"/>
+		</errfile>
+	</errors>
+	<cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+	</todoblock>
+	<dbgurls>
+	</dbgurls>
+	<filescache>
+		<file name="C:\OSPanel\domains\sri-guru\vany.html" crc="1650722709"/>
+		<file name="C:\OSPanel\domains\sri-guru\style.css" crc="1544318694"/>
+		<file name="C:\OSPanel\domains\sri-guru\shiksha.html" crc="1650722744"/>
+		<file name="C:\OSPanel\domains\sri-guru\nektar.html" crc="1650722726"/>
+		<file name="C:\OSPanel\domains\sri-guru\index.html" crc="1650719904"/>
+		<file name="C:\OSPanel\domains\sri-guru\all.css" crc="1650722463"/>
+		<file name="C:\OSPanel\domains\sri-guru\adaptive.css" crc="1650722516"/>
+	</filescache>
+</project>
